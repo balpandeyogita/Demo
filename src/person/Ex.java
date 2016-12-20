@@ -25,5 +25,7 @@ public class Ex {
 	   {
 	      System.out.println("Value of num="+num);
 	      System.out.println("Value of mystr="+mystr);
+		  System.out.println("welcome");
+		  
 	   }
 }
